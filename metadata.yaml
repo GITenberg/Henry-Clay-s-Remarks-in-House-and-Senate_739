@@ -1,0 +1,31 @@
+_repo: Henry-Clay-s-Remarks-in-House-and-Senate_739
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clay, Henry
+    alias: Clay, H. (Henry)
+    birthdate: 1777
+    deathdate: 1852
+    gutenberg_agent_id: '376'
+    url: http://www.gutenberg.org/2009/agents/376
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Clay
+description: ''
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arbuthnot, Alexander, 1748?-1818'
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcsh 'Seminole War, 1st, 1817-1818'
+- !lcsh 'Ambrister, Robert Christie, 1785?-1818'
+- GITenberg
+tableOfContents: "On the Expunging Resolutions, U.S. Senate, 16 January 1837\r\nOn\
+  \ the Seminole War, U.S. House of Representatives, 19 January 1819"
+title: Henry Clay's Remarks in House and Senate
+url: http://www.gutenberg.org/ebooks/739
